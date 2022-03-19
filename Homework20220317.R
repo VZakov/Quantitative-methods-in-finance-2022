@@ -40,3 +40,5 @@
 #https://dplyr.tidyverse.org/index.html
 #https://dplyr.tidyverse.org/articles/dplyr.html
 #####Problem 2#####
+
+#Copy to the recording https://unisofiafaculty.sharepoint.com/:v:/r/sites/AccountingFinanceandDigitalapplicationsSeminargroupI/Shared%20Documents/General/Recordings/Quantitative%20methods%20in%20finance%202022-20220317_180538-Meeting%20Recording.mp4?csf=1&web=1&e=3m90AT
