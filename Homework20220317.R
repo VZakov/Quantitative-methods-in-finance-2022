@@ -35,4 +35,8 @@
 # 5.3.1 Exercises 
 # 5.4.1 Exercises 
 # 5.5.2 Exercises 
+
+#You can also read the official dplyr site.
+#https://dplyr.tidyverse.org/index.html
+#https://dplyr.tidyverse.org/articles/dplyr.html
 #####Problem 2#####
